@@ -15,7 +15,8 @@ public class Divergent {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+        FactionArray arr = new FactionArray("Factions.txt");
+        System.out.println(arr.toString());
     }
     
 }

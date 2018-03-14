@@ -32,6 +32,7 @@ public class FactionArray {
                 long total = scLine.nextLong();
                 String motto = scLine.next();
                 arr[count] = new Faction(faction,firstName,surname,motto,total);
+                arr[count].splitMotto();
                 count++;
                 
             }
@@ -40,12 +41,15 @@ public class FactionArray {
         }
         
     } 
+//    public void sort(){
+//        for()
+//    }
 
     @Override
     public String toString() {
         String temp = "";
-        for(int i = 0; i < arr.length; i++){
-            temp+=arr[i].toString() + "\n";
+        for(int i = 0; i < count; i++){
+            temp+=arr[i].toString() + "\n\n";
         }
         return temp;
     }
