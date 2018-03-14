@@ -1,0 +1,7 @@
+Candour;Jack;Kang;200;I value honesty above all else.
+Abnegation;Marcus;Eaton;250;I choose to turn away from my reflection, to rely not on myself but on my brothers and sisters, to project always outward until I disappear
+Amnity;Johanna;Reyes;175;Give freely, trusting that you will be given what you need... Do not be angry. The opinions of others cannot damage you... The wrong is past. You must let it rest where it lies... You must no longer think cruel thoughts. Cruel thoughts lead to cruel words, and hurt you as much as they hurt their target
+Dauntless;Four;Eaton;300;We believe in ordinary acts of bravery, in the courage that drives one person to stand up for another... We believe in shouting for those who can only whisper, in defending those who cannot defend themselves
+Erudite;Janine;Matthews;275;Ignorance is defined not as stupidity but as lack of knowledge.
+Divergent;Tris;Prior;50;;
+Factionless;Evelyn;Johnson-Eaton;125;;
